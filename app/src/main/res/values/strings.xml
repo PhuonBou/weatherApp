@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Weather App</string>
+    <string name="hint_et">ville</string>
+    <string name="ok_bt">OK</string>
+    <string name="city_et_empty">Veuillez renseigner le nom d\'une ville.</string>
+    <string name="city_does_not_exists">Désolé, la ville que vous cherchez n\'existe pas.</string>
+    <string name="other_error">Désolé, un erreur est survenue.</string>
+    <string name="weather_icon_desc">Weather icon</string>
 </resources>
